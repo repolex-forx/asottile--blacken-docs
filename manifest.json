@@ -1,0 +1,41 @@
+{
+  "manifest_version": "1.0",
+  "org": "asottile",
+  "repo": "blacken-docs",
+  "versions": [
+    {
+      "commit": "e6b021559e1cbe76f47be312088687aac8cc69d7",
+      "parsed_at": "2026-10-18T05:52:25.892130+00:00",
+      "filetree": "filetree/e6b021559e1cbe76f47be312088687aac8cc69d7.nq.gz",
+      "blobs": [
+        "blob/b7af5ef213084fe100c5bb755659ef68c14dae5b.nq.gz",
+        "blob/2a7f84f54867d02714727f82eef95d3be939d666.nq.gz",
+        "blob/114a6874dc209dfdafcb6a26fee2a9d910d1e6b8.nq.gz",
+        "blob/205ab9ad9df4ab629d1b7b8d8a72b41f44d8824c.nq.gz",
+        "blob/40f4ac757715bb1a8c355eda9124141fdda3aeff.nq.gz",
+        "blob/5b25737c0d6d0671ed8412d13afab65cdb8dbafa.nq.gz",
+        "blob/438d629c3ce988e3afffa71110b9660853d38549.nq.gz",
+        "blob/30acc83b6797da94e6f047ba88ccfb5b934894ee.nq.gz",
+        "blob/659f24085b1c999fd998364518da691153a14b63.nq.gz",
+        "blob/3ba13e0cec6cbbfd462e9ebf529dd2093148cd69.nq.gz",
+        "blob/22ddbb118475b52ce8ecba56d9ec45009923da58.nq.gz",
+        "blob/fff5585dc1f623474080815a33a58a6817624c7c.nq.gz",
+        "blob/bbb3fe90c7b3d80430c4ed91debe3be2de2e206c.nq.gz",
+        "blob/93acb639926ccf42e9a2f76f02419eeaf0405c3a.nq.gz",
+        "blob/e604d4b72ae2405c4e135db6e96dc29cb44a265e.nq.gz",
+        "blob/6834462fa5122b154eb4072e54d24f164faf2d49.nq.gz",
+        "blob/2883592708aeda00c4b994558119acacf63b166e.nq.gz",
+        "blob/7f1d007c01048570d774e58f46203d3e92056c39.nq.gz",
+        "blob/4fb7faec2960085d0994a23838947e58b6228aa7.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/1667131bf5b9c03fe043557ff0a68a8d9ec1e048.nq.gz",
+        "blob/332b4cfc6476e93a8a6204fc7afa80eabe3cf918.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
