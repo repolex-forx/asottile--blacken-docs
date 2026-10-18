@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/asottile/blacken-docs/commit/e6b021559e1cbe76f47be312088687aac8cc69d7",
       "git:hexsha": "e6b021559e1cbe76f47be312088687aac8cc69d7",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T05:54:40.963857+00:00"
     },
     {
       "@id": "https://repolex.ai/r/asottile/blacken-docs/commit/1238e1d8f03e96a7ed9ad44937ea4348eb6b11b8",
